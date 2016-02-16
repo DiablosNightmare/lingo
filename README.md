@@ -84,6 +84,7 @@ be much quicker.
 
 Next, start without a .lingo file:
 
+
 ```bash
 cd $GOPATH/src/github.com/lingo-reviews/tenets/go/tenets/simpleseed/example
 
